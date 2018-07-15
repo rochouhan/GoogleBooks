@@ -8,6 +8,7 @@ public class Book {
     private String mUrl;
     private String mImageUrl;
 
+    //constructor for a book object
     public Book(String title, String authors, String url, String imageUrl){
         mTitle = title;
         mAuthors = authors;
